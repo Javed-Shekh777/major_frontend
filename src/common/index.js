@@ -1,5 +1,5 @@
 //export const backendDomin = "http://localhost:8080";
-export const backendDomin = "https://ecomback-cv62.onrender.com";
+export const backendDomin = "https://ecomback-l5cn.onrender.com";
 
 const SummaryApi = {
   signUP: {
